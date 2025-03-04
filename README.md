@@ -77,9 +77,9 @@ An interactive **Stock Market Analysis Dashboard** built using **Power BI**, aim
 
 ## 📢 Connect with Me
 🚀 **Nidhi Saroj**  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📧 Email: [your.email@example.com](nidhisaroj964@gmail.com)  
 🔗 GitHub: [Nidhiii2](https://github.com/Nidhiii2)  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nidhi-saroj-705b362a6/)
 
 🌟 If you find this project useful, consider **starring ⭐ the repository**!
 
