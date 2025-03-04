@@ -1,5 +1,4 @@
 # Honeywell-ICT-Data-Analytics-Program
-# Honeywell ICT Data Analytics Program
 
 ## 📊 Data Analytics Projects
 This repository contains two data analytics projects completed as part of the **Honeywell ICT Data Analytics Program**. The projects utilize **Power BI** and **Python** to derive actionable insights from datasets.
