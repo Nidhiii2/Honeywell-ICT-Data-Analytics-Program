@@ -106,7 +106,7 @@ A detailed sales performance dashboard for SuperStoreUS, created using Power BI.
 🚀 **Nidhi Saroj**  
 📧 **Email:** nidhisaroj964@gmail.com  
 🔗 **GitHub:** [Nidhiii2](https://github.com/Nidhiii2)  
-💼 **LinkedIn:** [Nidhi Saroj](https://www.linkedin.com/in/nidhi-saroj)
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nidhi-saroj-705b362a6/)
 
 🌟 If you find this project useful, consider starring ⭐ the repository!
 
